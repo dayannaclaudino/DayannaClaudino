@@ -3,11 +3,6 @@
 
 Olá! Me chamo Dayanna, sou acadêmica de Análise e Desenvolvimento de Sistemas e formada em informática - ênfase em desenvolvimento de sistemas pelo IFPE, adquiri uma experiência sólida como analista de suporte e atendimento ao cliente e também como assistente administrativo no qual trabalhei dois anos. Atualmente, estou focada em ampliar minha educação e conhecimento na área de tecnologia, cursando Análise e Desenvolvimento de Sistemas. Tenho me dedicado a projetos práticos, desafios e cursos para aprimorar minhas habilidades nessa área.
 
-## Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/day_claudino/)
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook)](mailto:day_claudino@hotmail.com)
-
 ## Contatos:
 
 <div>
