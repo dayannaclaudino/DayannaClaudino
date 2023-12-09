@@ -6,7 +6,7 @@ Olá! Me chamo Dayanna, sou acadêmica de Análise e Desenvolvimento de Sistemas
 ## Contatos:
 
 <div>
-<a href="https://www.dio.me/users/day_claudino/" width="70" target="_blank"><img loading="lazy" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" target="_blank"></a>
+<a href="https://www.dio.me/users/day_claudino/" target="_blank"><img loading="lazy" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg"  width="70" target="_blank"></a>
 <a href="https://www.instagram.com/dayclaudino/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:day_claudino@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dayanna-claudino-04b108197/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
