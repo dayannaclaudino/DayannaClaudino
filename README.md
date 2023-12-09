@@ -8,6 +8,15 @@ Olá! Me chamo Dayanna, sou acadêmica de Análise e Desenvolvimento de Sistemas
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook)](mailto:day_claudino@hotmail.com)
 
+## Contatos:
+
+<div>
+<a href="https://www.dio.me/users/day_claudino/" target="_blank"><img loading="lazy" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" target="_blank"></a>
+<a href="https://www.instagram.com/dayclaudino/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:day_claudino@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/dayanna-claudino-04b108197/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ## GitHub Status
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
