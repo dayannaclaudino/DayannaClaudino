@@ -12,9 +12,6 @@ Olá! Me chamo Dayanna, sou acadêmica de Análise e Desenvolvimento de Sistemas
 <a href="https://www.linkedin.com/in/dayanna-claudino-04b108197/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## GitHub Status
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
-
 
 
 ## Algumas habilidades
