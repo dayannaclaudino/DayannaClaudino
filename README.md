@@ -1,7 +1,7 @@
 
 #  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=5011&color=594157&center=falso&vCenter=falso&lines=👋+Olá!+Bem+Vindo+ao+meu+perfil...)](https://git.io/typing-svg)
 
-Olá! Me chamo Dayanna, sou acadêmica de Análise e Desenvolvimento de Sistemas e formada em informática - ênfase em desenvolvimento de sistemas pelo IFPE, adquiri uma experiência sólida como analista de suporte e atendimento ao cliente e também como assistente administrativo no qual trabalhei dois anos. Atualmente, estou focada em ampliar minha educação e conhecimento na área de tecnologia, cursando Análise e Desenvolvimento de Sistemas. Tenho me dedicado a projetos práticos, desafios e cursos para aprimorar minhas habilidades nessa área.
+Olá! Me chamo Dayanna, sou acadêmica de Análise e Desenvolvimento de Sistemas e formada em informática - ênfase em desenvolvimento de sistemas pelo IFPE. Atualmente, estou focada em ampliar minha educação e conhecimento na área de tecnologia, cursando Análise e Desenvolvimento de Sistemas. Tenho me dedicado a projetos práticos, desafios e cursos para aprimorar minhas habilidades nessa área.
 
 ## Contatos:
 
